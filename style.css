@@ -1,0 +1,7 @@
+div> {
+width: 100%;
+text-align: center;
+color: 20px;
+padding: 20px
+background-imagem: linearGradient(to :right, #blue, #white);
+        }
